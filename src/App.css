@@ -54,9 +54,9 @@ body {
   border-radius: 20px;
   width: 200px;
   height: 40px;
-  border: 1px solid rgb(198, 170, 11);
+  border: 1px solid #ECE7C2;
   background-color: transparent;
-  color: rgb(198, 170, 11);
+  color: #ECE7C2;
 }
 
 .join-us:hover {
@@ -67,11 +67,11 @@ body {
 .router-link{
   cursor: pointer;
   text-decoration: none;
-  color: aliceblue;
+  color: #F9F6EB;
 }
 
 .anasayfa{
   cursor: pointer;
   text-decoration: none;
-  color: aliceblue;
+  color: #F9F6EB;
 }
