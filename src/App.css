@@ -40,6 +40,7 @@ body {
 
 .navbar-list li {
   cursor: pointer;
+  text-decoration: none;
 }
 
 .join-us {
@@ -60,4 +61,10 @@ body {
 .join-us:hover {
   opacity: 0.7;
   transition: 0.3s;
+}
+
+.router-link{
+  cursor: pointer;
+  text-decoration: none;
+  color: aliceblue;
 }
