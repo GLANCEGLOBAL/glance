@@ -36,6 +36,7 @@ body {
   font-size: 40px;
   margin-right: 150px;
   margin-left: 190px;
+ 
 }
 
 .navbar-list li {
@@ -64,6 +65,12 @@ body {
 }
 
 .router-link{
+  cursor: pointer;
+  text-decoration: none;
+  color: aliceblue;
+}
+
+.anasayfa{
   cursor: pointer;
   text-decoration: none;
   color: aliceblue;
